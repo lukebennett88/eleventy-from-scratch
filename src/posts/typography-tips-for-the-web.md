@@ -1,8 +1,9 @@
 ---
-title: 'Typography tips for the web'
-date: '2019-12-04'
-tags: ['Tips And Tricks']
+title: "Typography tips for the web"
+date: "2019-12-04"
+tags: ["Tips And Tricks"]
 ---
+
 Lorem markdownum pectus neque! Nomen et cepit in caedis protinus, motumque aderam collumque sedem domum.
 
 1. Erat cervus haec
@@ -23,7 +24,7 @@ Ulla quod tuum **easdem** subiere, Atrides plura, Pagasaeae paret sentit. Manibu
 
 Transire stratis, ut **se** exiguo plenis **clarum armiger simulati** tuum. Potentior a [pavidam](#inque), inque modo colle **colubrasque porrigis** altae in aura, at attactu. Et fessis longo; abi de, egi anni, habeo pars tecta extimuit.
 
-Mota crimina, honor misit *amnis humo*, ter vidi medios terga, sprevere. Est nunc plangor concurrere opifer ore, eurytus tellus.
+Mota crimina, honor misit _amnis humo_, ter vidi medios terga, sprevere. Est nunc plangor concurrere opifer ore, eurytus tellus.
 
 Rurigenae Parnasia proelia confertque nostri; ore cum lanas regna! Est annis magnis protinus, Pleionesque et id longi sorte Tonantis. Et quod, est artes negarent primus, haec stipitis scopulis modo honorem has meis prius manus tempus ni foedabis.
 

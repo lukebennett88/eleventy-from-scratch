@@ -1,7 +1,7 @@
 ---
-title: 'Why cross-cultural design really matters'
-date: '2020-04-01'
-tags: ['Culture', 'Design Thinking']
+title: "Why cross-cultural design really matters"
+date: "2020-04-01"
+tags: ["Culture", "Design Thinking"]
 ---
 
 Lorem markdownum teneri dives, vota inarsit, numina qui mixto. Oculos quo vestro fero inrequieta magni. Ad inania pedes et volucrem, sub ex facti, nec huc curvamina! Semina cum sonitusque fraterno Meriones animas pervenit iusta populos faciem. Colebat et saepe!

@@ -1,9 +1,10 @@
 ---
-title: '10 Tips for Website Redesign in 2020'
-date: '2020-01-02'
-tags: ['Tips And Tricks']
+title: "10 Tips for Website Redesign in 2020"
+date: "2020-01-02"
+tags: ["Tips And Tricks"]
 ---
-Lorem markdownum **verbis**, fertur *fas* poplite cervix proximus ventis et. Regia ac gestu pugnacem actis, cum [illis](#murmurat-veros-tepescunt), et ungues ante mihi placet nomina relaxant circumstantes repagula non, speratque. Amorem suadent volucris quoque, tamen nunc sacra et genitalia candidaque audet homini iudice auras ramosam Dictaeaque.
+
+Lorem markdownum **verbis**, fertur _fas_ poplite cervix proximus ventis et. Regia ac gestu pugnacem actis, cum [illis](#murmurat-veros-tepescunt), et ungues ante mihi placet nomina relaxant circumstantes repagula non, speratque. Amorem suadent volucris quoque, tamen nunc sacra et genitalia candidaque audet homini iudice auras ramosam Dictaeaque.
 
 1. Addenda ventis non
 2. Sol inpia ne arboreis
@@ -13,9 +14,9 @@ Lorem markdownum **verbis**, fertur *fas* poplite cervix proximus ventis et. Reg
 
 ## Dispositam terribilis quae
 
-Cognoscite gerens causam circumstant *luctus cupioque* morte, fera coniunx frustra Cnosiacaeque, cupidisque tempus Achaia. Pericla multis blanda! Et terribili, nec, **trepidans** pro; toto nam urbesque.
+Cognoscite gerens causam circumstant _luctus cupioque_ morte, fera coniunx frustra Cnosiacaeque, cupidisque tempus Achaia. Pericla multis blanda! Et terribili, nec, **trepidans** pro; toto nam urbesque.
 
-Utilis templum verbis, date Sidonide et fugit, iram vela cultros pennis et nimium. Tuam speciosam truculenta et cinxit sacer feroci et armenta servas; totoque fovet! Diversa ite profugi bella fugit viasque, velint sinu sic Iliades aquas gutture *asper* Neptunus.
+Utilis templum verbis, date Sidonide et fugit, iram vela cultros pennis et nimium. Tuam speciosam truculenta et cinxit sacer feroci et armenta servas; totoque fovet! Diversa ite profugi bella fugit viasque, velint sinu sic Iliades aquas gutture _asper_ Neptunus.
 
 ## Tu viginti non
 
