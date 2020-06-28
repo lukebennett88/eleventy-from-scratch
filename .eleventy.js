@@ -16,6 +16,11 @@ module.exports = config => {
     ).filter(x => x.data.featured);
   });
 
+  // Returns blog entries in reverse chronological order (newest first)
+  config.addCollection('blog', collection => {
+    return [...collection.getFilteredByGlob('./src/posts/*.md')].reverse();
+  });
+
   return {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
